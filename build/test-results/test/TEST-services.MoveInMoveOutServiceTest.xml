@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.MoveInMoveOutServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.033">
+  <properties/>
+  <testcase name="moveOutUserTest2()" classname="services.MoveInMoveOutServiceTest" time="0.006"/>
+  <testcase name="moveOutUserTest3()" classname="services.MoveInMoveOutServiceTest" time="0.007"/>
+  <testcase name="moveOutUserTest()" classname="services.MoveInMoveOutServiceTest" time="0.005"/>
+  <testcase name="moveInUserTest2()" classname="services.MoveInMoveOutServiceTest" time="0.004"/>
+  <testcase name="moveInUserTest()" classname="services.MoveInMoveOutServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

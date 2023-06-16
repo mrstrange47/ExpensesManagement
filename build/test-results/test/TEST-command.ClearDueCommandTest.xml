@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="command.ClearDueCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:22" hostname="DESKTOP-GK7NCT7" time="4.511">
+  <properties/>
+  <testcase name="executeTest2()" classname="command.ClearDueCommandTest" time="4.478"/>
+  <testcase name="executeTest3()" classname="command.ClearDueCommandTest" time="0.01"/>
+  <testcase name="executeTest()" classname="command.ClearDueCommandTest" time="0.014"/>
+  <system-out><![CDATA[NOT_FOUND
+PAYMENT_FAILED
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="entity.SplitwiseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.047">
+  <properties/>
+  <testcase name="getUserMapTest()" classname="entity.SplitwiseTest" time="0.042"/>
+  <testcase name="getUserByNameTest()" classname="entity.SplitwiseTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

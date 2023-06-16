@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="command.MoveInCommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:26" hostname="DESKTOP-GK7NCT7" time="0.079">
+  <properties/>
+  <testcase name="executeTest2()" classname="command.MoveInCommandTest" time="0.068"/>
+  <testcase name="executeTest()" classname="command.MoveInCommandTest" time="0.009"/>
+  <system-out><![CDATA[FULL
+SUCCESS
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

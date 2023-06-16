@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.DuesServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.112">
+  <properties/>
+  <testcase name="getDuesByUserTest()" classname="services.DuesServiceTest" time="0.043"/>
+  <testcase name="getDuesByUserTest2()" classname="services.DuesServiceTest" time="0.019"/>
+  <testcase name="clearDueByUserTest2()" classname="services.DuesServiceTest" time="0.007"/>
+  <testcase name="clearDueByUserTest3()" classname="services.DuesServiceTest" time="0.009"/>
+  <testcase name="clearDueByUserTest4()" classname="services.DuesServiceTest" time="0.009"/>
+  <testcase name="clearDueByUserTest5()" classname="services.DuesServiceTest" time="0.008"/>
+  <testcase name="clearDueByUserTest()" classname="services.DuesServiceTest" time="0.007"/>
+  <system-out><![CDATA[test_user2 50
+test_user3 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

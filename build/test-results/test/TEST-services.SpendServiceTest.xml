@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.SpendServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.03">
+  <properties/>
+  <testcase name="spendTest()" classname="services.SpendServiceTest" time="0.005"/>
+  <testcase name="spendTest2()" classname="services.SpendServiceTest" time="0.005"/>
+  <testcase name="spendTest3()" classname="services.SpendServiceTest" time="0.008"/>
+  <testcase name="spendTest4()" classname="services.SpendServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

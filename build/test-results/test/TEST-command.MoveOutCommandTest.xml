@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="command.MoveOutCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.023">
+  <properties/>
+  <testcase name="executeTest2()" classname="command.MoveOutCommandTest" time="0.007"/>
+  <testcase name="executeTest3()" classname="command.MoveOutCommandTest" time="0.007"/>
+  <testcase name="executeTest()" classname="command.MoveOutCommandTest" time="0.006"/>
+  <system-out><![CDATA[NOT_FOUND
+FAILED
+SUCCESS
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="command.SpendCommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:27" hostname="DESKTOP-GK7NCT7" time="0.055">
+  <properties/>
+  <testcase name="executeTest2()" classname="command.SpendCommandTest" time="0.048"/>
+  <testcase name="executeTest()" classname="command.SpendCommandTest" time="0.006"/>
+  <system-out><![CDATA[NOT_FOUND
+SUCCESS
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

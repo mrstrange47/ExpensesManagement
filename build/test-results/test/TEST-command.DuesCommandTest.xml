@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="command.DuesCommandTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-16T09:29:26" hostname="DESKTOP-GK7NCT7" time="0.017">
+  <properties/>
+  <testcase name="executeTest2()" classname="command.DuesCommandTest" time="0.008"/>
+  <testcase name="executeTest()" classname="command.DuesCommandTest" time="0.008"/>
+  <system-out><![CDATA[NOT_FOUND
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
